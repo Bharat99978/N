@@ -1,0 +1,9 @@
+requests
+websocket-client
+concurrent.futures
+random2
+json5
+time
+os-sys
+queue
+ssl
