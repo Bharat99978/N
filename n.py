@@ -15,7 +15,7 @@ E, B, G, S, F, R, Y, Bl, P, C, W, PN = '\033[1;31m', '\033[2;36m', '\033[1;32m',
 
 # Predefined Telegram credentials
 CHAT_ID = "7164885902"
-TOKEN = "7292159645:AAFOGjw2vMnvWEy1hr8sXapy4I2Kxm88_vY"
+TOKEN = "7255332775:AAFssemVhMBYLvvTfcPW-l3HSwyFKgkeVCQ"
 
 # Global counters and storage
 failed, success, retry = 0, 0, 0
