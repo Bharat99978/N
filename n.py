@@ -14,8 +14,8 @@ from queue import Queue
 E, B, G, S, F, R, Y, Bl, P, C, W, PN = '\033[1;31m', '\033[2;36m', '\033[1;32m', '\033[1;33m', '\033[1;32m', '\033[1;31m', '\033[1;33m', '\033[1;34m', '\033[1;35m', '\033[1;36m', '\033[1;37m', '\033[1;35m'
 
 # Predefined Telegram credentials
-CHAT_ID = "7164885902"
-TOKEN = "7255332775:AAFssemVhMBYLvvTfcPW-l3HSwyFKgkeVCQ"
+CHAT_ID = "8391674276"
+TOKEN = "8060081718:AAGsnkkJXY-fZJmpg9HcvnXWPQ2DZz1ZC7E"
 
 # Global counters and storage
 failed, success, retry = 0, 0, 0
